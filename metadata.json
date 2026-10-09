@@ -1,0 +1,6 @@
+{
+  "name": "HOMEHELP Partner",
+  "description": "HOMEHELP Partner Android App with real-time incoming order alert, customer voice order playback, live GPS distance, transparent ₹150/hr helper pricing, and job management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
